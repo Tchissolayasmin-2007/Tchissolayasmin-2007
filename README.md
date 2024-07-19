@@ -7,6 +7,8 @@ I'm Tchissola Yasmin, I live in Angola and I am a high school graduate. I enjoy 
 Skills: Bootstrap / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-
+- 🌱 I’m currently learning The OOPS concepts 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I’m fluent in Portuguese, English and Spanish. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchissolayasmin-2007)](https://github.com/anuraghazra/github-readme-stats)
 
