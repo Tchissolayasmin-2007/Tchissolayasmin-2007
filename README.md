@@ -4,7 +4,7 @@
 I'm Tchissola Yasmin, I live in Angola and I am a high school graduate. I enjoy learning new languages and expanding my knowledge in coding. I usually code with languages like Java, phyton, and JavaScript. You can take a look at some of my previous projects below.
 
 ## Skills and Experience
-👩🏾‍💻Bootstrap / REACT / JS / HTML / CSS
+👩🏾‍💻Bootstrap / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning The OOPS concepts 
