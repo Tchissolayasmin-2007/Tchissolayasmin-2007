@@ -15,5 +15,3 @@ You can also check the following links to see my work on Google Collab:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tchissolayasmin-2007)](https://github.com/anuraghazra/github-readme-stats)
-
